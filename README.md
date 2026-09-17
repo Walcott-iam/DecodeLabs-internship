@@ -1,7 +1,4 @@
 # DecodeLabs-internships
-Perfect. I'll update the README with the exact three test cases you specified (`abc`, `Abcdefg1`, `Abcdef1!`) and their corresponding scores. This matches your screenshots and gives a clean, verifiable testing section.
-
----
 
 # 🛡️ Password Strength Checker (Project 1)
 **DecodeLabs Industrial Training Kit | Batch 2026**
