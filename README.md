@@ -2,7 +2,7 @@
 
 # 🛡️ Password Strength Checker (Project 1)
 **DecodeLabs Industrial Training Kit | Batch 2026**
-**Track:** Junior Analyst // Defensive Logic
+**Track:** Cyber security
 
 ## 📖 Project Overview
 This project is the foundational milestone for the Cybersecurity Analyst track at DecodeLabs. The goal is to build a robust **Password Strength Checker** that evaluates risk using pure string handling and conditional logic.
