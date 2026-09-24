@@ -54,13 +54,17 @@ Each password is checked against 6 criteria. The classification is derived as fo
 **Input:** `abc` (Length: 3)
 *Result: 1/6 checks passed. Immediate fail due to length.*
 
+![weak-password.png](https://github.com/Walcott-iam/TASK-1-Oresanya-khaleed-walcott/blob/3fe4b7922fff52ad27f182cdf1a9d19bd9c21561/weak-password.png)
+
 ### 2. Medium Password (Fail – Fix First)
 **Input:** `Abcdefg1` (Length: 8)
 *Result: 4/6 checks passed. Missing symbols and Unicode bonus. Meets minimum length but is too predictable.*
+![medium-password.png](https://github.com/Walcott-iam/TASK-1-Oresanya-khaleed-walcott/blob/3fe4b7922fff52ad27f182cdf1a9d19bd9c21561/medium-%20password.png)
 
 ### 3. Strong Password (Pass – Gatekeeper Validated)
 **Input:** `Abcdef1!` (Length: 8, Mixed Case, Number, Symbol)
 *Result: 5/6 checks passed. High entropy, safe to proceed to hashing/encryption.*
+![strong-password.png](https://github.com/Walcott-iam/TASK-1-Oresanya-khaleed-walcott/blob/3fe4b7922fff52ad27f182cdf1a9d19bd9c21561/strong-password.png)
 
 ## 🚀 How to Run
 1.  Ensure you have **Python 3.x** installed.
